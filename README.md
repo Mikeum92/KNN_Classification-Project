@@ -1,5 +1,7 @@
 # KNN_Classification-Project
-In this project I try to implement K Nearest Neighbor algorithm on a data set to solve a classification problem. 
+In this project I try to implement K Nearest Neighbor algorithm on a data set to to create a model that directly predicts a class for a new data point based off of the features. 
+I have been given a classified data set from a company! They've hidden the feature column names but have given the data and the target classes.
+
 The project notebook is structured as follows:
   * Importing libraries
   * Reading in the data set
